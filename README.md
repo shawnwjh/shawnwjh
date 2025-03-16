@@ -1,4 +1,12 @@
 ## Hi there 👋
+🎓 Currently pursuing a BSc in Information Systems at SMU. Experienced in Python, Java, Node.js, SQL, PHP.\
+🌱 I’m learning Unity C#, AWS and Swift at the moment.
+
+Excited about AI, full stack development, and building impactful tech solutions. Always eager to learn, collaborate, and solve real-world challenges!
+
+💻 Let’s connect and innovate together!
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shawnwjh&theme=ds)
 
 <!--
 **shawnwjh/shawnwjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
