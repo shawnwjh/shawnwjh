@@ -6,7 +6,7 @@ Excited about AI, full stack development, and building impactful tech solutions.
 
 💻 Let’s connect and innovate together!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shawnwjh&theme=ds)
+[![GitHub Streak](https://github-readme-streak-stats-nu-ruby.vercel.app?user=shawnwjh&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **shawnwjh/shawnwjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
