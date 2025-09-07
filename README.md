@@ -1,10 +1,5 @@
 ## Hi there 👋
-🎓 Currently pursuing a BSc in Information Systems at SMU. Experienced in Python, Java, Node.js, SQL, PHP.\
-🌱 I’m learning Unity C#, AWS and Swift at the moment.
-
-Excited about AI, full stack development, and building impactful tech solutions. Always eager to learn, collaborate, and solve real-world challenges!
-
-💻 Let’s connect and innovate together!
+Information Systems student who loves turning ideas into shippable apps. Curious by default: I build, automate, and learn—across software development, cloud, DevOps, and tech consulting. If it solves a real problem, I’m in. Let’s build something fun together. 🚀
 
 [![GitHub Streak](https://github-readme-streak-stats-nu-ruby.vercel.app?user=shawnwjh&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
